@@ -1,0 +1,3 @@
+print("It's alright")
+print("He is called 'Shrilakshmi'")
+print('He is called "Shrilakshmi"')
